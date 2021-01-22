@@ -2,7 +2,7 @@ id,name,text,trans
 0-chapter_name,,刀神嘱目,刀神的瞩目
 1,,<span class='scene-font-katari'>──……</span>,<span class='scene-font-katari'>──……</span>,
 8,,<span class='scene-font-katari'>窮極たる太刀の極意を習得して、</span><br><span class='scene-font-katari'>更なる力を得た姬塔。</span>,<span class='scene-font-katari'>姬塔习得了穷极之刀的极意，</span><br><span class='scene-font-katari'>得到了更上一层楼的力量。</span>
-15,姬塔,──……,──……
+15,姬塔/团长,──……,──……
 25,,<span class='scene-font-katari'>姬塔とすれ違ったオクトーは、</span><br><span class='scene-font-katari'>歩き去る姬塔を振り返る。</span>,<span class='scene-font-katari'>与姬塔擦肩而过的奥克托，</span><br><span class='scene-font-katari'>回头望着已迈步远去的姬塔。</span>
 26,オクトー/奥克托,……面白き哉……<br>と言うには、早計か。,……真是有趣……<br>说这话，还为时尚早吗。
 27,オクトー/奥克托,<span class='scene-font-kokoro'>（力を求めいずれ理を体現するも良し、</span><br><span class='scene-font-kokoro'>理すらも不要とする</span><br><span class='scene-font-kokoro'>破壊神になるも良し）</span>,<span class='scene-font-kokoro'>（渴求力量终有一天能够体现出真理也好，</span><br><span class='scene-font-kokoro'>成为抛弃真理的破坏神亦可）</span>
