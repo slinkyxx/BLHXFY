@@ -12,6 +12,7 @@ id,name,text,trans
 59,シエテ/希耶提,またまた謙遜しちゃって～<br>姬塔ちゃんなら<br>どうにかして乗り越えそうだけど！,又来又来还这么谦虚～<br>姬塔酱的话会想办法克服过去的吧！
 60,,<span class='scene-font-katari'>おどけるシエテは、</span><br><span class='scene-font-katari'>姬塔の肉体に起きた</span><br><span class='scene-font-katari'>異変について尋ねる。</span>,<span class='scene-font-katari'>希耶提一边打着哈哈，</span><br><span class='scene-font-katari'>一边询问起了</span><br><span class='scene-font-katari'>姬塔身上发生的异变。</span>
 61,,<span class='scene-font-katari'>だが、姬塔も</span><br><span class='scene-font-katari'>自身の肉体に何が起きたのか</span><br><span class='scene-font-katari'>把握できていなかった。</span>,<span class='scene-font-katari'>但是，连姬塔自己</span><br><span class='scene-font-katari'>都不能准确把握自己的身体</span><br><span class='scene-font-katari'>究竟发生了什么。</span>
+62,,だが、姬塔も\n自身の肉体に何が起きたのか\n把握できていなかった。,<span class='scene-font-katari'>但是，连姬塔自己</span><br><span class='scene-font-katari'>都不能准确把握自己的身体</span><br><span class='scene-font-katari'>究竟发生了什么。</span>
 63,シエテ/希耶提,ふむふむ……俺が推察するに<br>十種の武器の極意と極限まで<br>シンクロした結果──,嗯嗯……根据我的推测<br>这是姬塔与十种武器的极意<br>极限同调后的结果──
 64,シエテ/希耶提,限界を超えた姬塔ちゃんの<br>深層に眠っていた力が解放されて、<br>肉体に影響が出たってところかな。,沉睡在超越了极限的姬塔酱<br>体内的力量被解放，<br>然后对肉体产生影响了吧。
 65,シエテ/希耶提,ま、今の所問題無さそうだし、<br>何か起きたら俺らが対処するから<br>大丈夫でしょ！,不过，现在看起来也没什么问题，<br>就算发生了什么我们也会处理<br>所以应该没问题！
@@ -53,6 +54,7 @@ id,name,text,trans
 110,シエテ/希耶提,でも改めてみるとすごい格好だね～！<br>とうとう神様にでも<br>なっちゃったのかな……？,但是仔细看看你现在真是不得了的样子呢～<br>终于要变成神了吗……？
 111,シエテ/希耶提,ってまぁ、ずいぶんと<br>幼くてかわいらしい神様だけど。,但这，<br>是个十分年轻可爱的神明呢。
 112,,<span class='scene-font-katari'>異様な姿の自分に、少しも恐れを</span><br><span class='scene-font-katari'>抱くことなく冗談を言ってのける</span><br><span class='scene-font-katari'>シエテに安堵する姬塔。</span>,<span class='scene-font-katari'>面对着自己异样的身姿，</span><br><span class='scene-font-katari'>希耶提毫不畏惧地向自己开玩笑，</span><br><span class='scene-font-katari'>姬塔感到了些许安心。</span>
+113,,異様な姿の自分に、少しも恐れを\n抱くことなく冗談を言ってのける\nシエテに安堵する姬塔。,面对着自己异样的身姿，\n希耶提毫不畏惧地向自己开玩笑，\n姬塔感到了些许安心。
 114,,<span class='scene-font-katari'>その場にいた十天衆も皆、</span><br><span class='scene-font-katari'>姬塔の不安を感じ取ったのか</span><br><span class='scene-font-katari'>いつも通りの調子で語りかける。</span>,<span class='scene-font-katari'>在场的各位十天众，</span><br><span class='scene-font-katari'>像是感觉到了姬塔的不安一样，</span><br><span class='scene-font-katari'>纷纷用平时的语气向姬塔搭起话来。</span>
 115,シエテ/希耶提,……あ、そうだ！<br>せっかくこうして集まってるんだから、<br>みんなでパーティーしない？,……啊，对了！<br>难得大家聚到一起了，<br>我们来开个派对吧？
 116,シス/希斯,……姬塔を<br>祝うパーティーは悪くない。,……开个祝贺姬塔的派对也挺好的。
