@@ -4,8 +4,8 @@ id,name,text,trans
 1,,<span class='scene-font-katari'>姬塔と十天衆の連戦が</span><br><span class='scene-font-katari'>ついに終わりを告げた。</span>,<span class='scene-font-katari'>姬塔与十天众们的连战</span><br><span class='scene-font-katari'>终于告一段落。</span>
 2,,<span class='scene-font-katari'>見事、全ての十天衆を</span><br><span class='scene-font-katari'>退けた姬塔。</span>,<span class='scene-font-katari'>姬塔出色地击退所有十天众。</span>
 3,,<span class='scene-font-katari'>十天衆との壮絶な死闘の末、</span><br><span class='scene-font-katari'>姬塔は自身の肉体の限界を</span><br><span class='scene-font-katari'>超えて、新たな境地に達していた。</span>,<span class='scene-font-katari'>在与十天众展开了壮绝死斗的最后，</span><br><span class='scene-font-katari'>姬塔超越了自己肉体的极限，</span><br><span class='scene-font-katari'>抵达了新的境地。</span>
-31,姬塔,──……,
-53,姬塔,──……,
+31,姬塔/团长,──……,
+53,姬塔/团长,──……,
 56,シエテ/希耶提,はははは……<br>やるねぇ姬塔ちゃん。,哈哈哈哈……<br>真厉害啊姬塔酱。
 57,シエテ/希耶提,全力の俺達十天衆と<br>一人で渡り合うなんて<br>大したもんだよ。,竟然能一个人对付<br>全力战斗的我们十天众所有人，<br>真是了不起。
 58,,<span class='scene-font-katari'>皆で一斉に攻撃されたら</span><br><span class='scene-font-katari'>流石に対処しきれなかったと</span><br><span class='scene-font-katari'>答える姬塔。</span>,<span class='scene-font-katari'>姬塔回答道，</span><br><span class='scene-font-katari'>要是被大家一起攻击的话</span><br><span class='scene-font-katari'>再怎么也没法应对。</span>
@@ -22,9 +22,9 @@ id,name,text,trans
 70,ウーノ/乌诺,君の在り様は、<br>もはやどんな言葉を重ねるよりも、<br>はるかに雄弁だ。,你的生存方式，<br>已经是胜于无数堆砌起来的词藻的雄辩了。
 71,ウーノ/乌诺,幾度も刃を交え、<br>君の在り様を<br>私はしっかりと確かめさせてもらった。,与你交手数次，<br>我已经好好地确认了<br>你的生存之道。
 72,ウーノ/乌诺,もう私には何の危惧も無い。<br>君がこれから紡ぐ未来を、<br>楽しみにさせてもらうよ。,我已经不会再有所畏惧。<br>让我尽情地期待，<br>你即将开始编织的未来吧。
-74,サラ―サ,うー……<br>やっぱ勝てなかったかー,呜——……<br>果然没打赢——
+74,サラ―サ/萨拉萨,うー……<br>やっぱ勝てなかったかー,呜——……<br>果然没打赢——
 75,サラーサ/萨拉萨,そうだよなー……<br>ちょっとな？<br>そんな気はしてたんだよなー……,也是吧——……<br>我之前好像微微，<br>感觉到会是这样……
-76,サラ―サ,でもあたし、まだまだ強くなるからな！<br>また勝負しようぜ！<br>姬塔！,但是啊，我会变得更加更加厉害的！<br>到时候再来比试吧！<br>姬塔！
+76,サラ―サ/萨拉萨,でもあたし、まだまだ強くなるからな！<br>また勝負しようぜ！<br>姬塔！,但是啊，我会变得更加更加厉害的！<br>到时候再来比试吧！<br>姬塔！
 78,カトル/卡托尔,今回の戦いを通じて<br>改めてあなたの力の本質を感じました。,透过这次战斗让我<br>再一次感受到了你力量的本质。
 79,カトル/卡托尔,それは、全てを守るための力。<br>あなたがその力を振るうなら、<br>弱者を取りこぼすことは無いでしょう。,那是，为了去守护一切的力量。<br>你使用这份力量的话，<br>也不会输给弱者吧。
 80,カトル/卡托尔,姬塔さん、これからも<br>あなたはあなたのままでいて下さいね。,姬塔，从今往后<br>请你也继续保持你自己的样子吧。
@@ -64,7 +64,7 @@ id,name,text,trans
 120,シエテ/希耶提,いいねいいね～！<br>こんな手のかかる集団の頭目なんか、<br>俺も交代したかったところだしね～！,好啊好啊～！<br>像这样令人操心的集团的头目，<br>我也正好想让人接替了呢～！
 121,シエテ/希耶提,姬塔ちゃんがオッケーなら<br>どうぞどうぞ！　いつでもどうぞ～<br>ってカンジ～？,姬塔酱如果OK的话，<br>请便请便！随时请便～<br>这样～？
 122,,<span class='scene-font-katari'>シエテから思わぬ提案を受けて</span><br><span class='scene-font-katari'>真剣に考え込む姬塔。</span>,<span class='scene-font-katari'>姬塔对是否要接受希耶提的提案</span><br><span class='scene-font-katari'>认真地思考了起来。</span>
-123,姬塔,…………,
+123,姬塔/团长,…………,
 125,シエテ/希耶提,<span class='scene-font-kokoro'>（あれ……姬塔ちゃん？</span><br><span class='scene-font-kokoro'>満更でもなさそうな顔してる？）</span>,<span class='scene-font-kokoro'>（诶……姬塔酱？</span><br><span class='scene-font-kokoro'>看表情好像并不反对？）</span>
 125-sel1_txt,,<span class='scene-font-katari'>よろしくお願いします！！</span>,<span class='scene-font-katari'>那就请大家多多指教！！</span>
 126,シエテ/希耶提,……えっ？,……诶？
