@@ -908,6 +908,13 @@ raid/,召喚石情報,召唤石信息,
 /quest/content/battle_history,期限を過ぎると、確認及び報酬の受け取りができなくなりますのでご注意ください。,请注意，截止日期后您将无法结算战斗和获取奖励。,
 /quest/content/battle_history,未確認バトルが5件以上残っている場合、クエストの開始・マルチバトルへの参加ができなくなります。,如果积累了5场或更多未结算的战斗，你将无法发起任务或参加多人战。,
 /play_list,<%= n.episode_name %>を再生,阅读 <%= n.episode_name %>,
+/listall/content,リサイクル状況,回收状况,10
+/listall/content,精錬完了まで,距精炼完毕还有,10
+/listall/content,キャラ数,角色数,7
+/enhancement_weapon/content,素材を選択してください（最大20個）,请选择素材（最大20个）,
+/enhancement_weapon/content,素材にできる武器がありません,没有可作为素材的武器,
+/enhancement_weapon/content,ベース武器を選択してください,请选择基础武器,
+/enhancement_weapon/content,ベースにできる武器がありません,没有可作为基础的武器,
 /enhancement_weapon/content/material,素材武器を選択してください,请选择素材武器,5
 /enhancement_weapon/content,育成アイテムを使用できます,可使用育成道具
 /party/content/set_poses,スキン・POSE切り替え,皮肤·POSE切换,
