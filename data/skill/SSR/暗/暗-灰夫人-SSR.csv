@@ -1,9 +1,9 @@
 ﻿id,name,detail
 npc,灰夫人,3040005000
 special,禁忌之爱,暗属性伤害(特大)
-special-ボーン・デスワルツ,死亡华尔兹,暗属性伤害(特大)/<span class=text-blue>◆对处于中毒状态的敌人进行暗属性技能追击
-special-Death March,死亡华尔兹,暗属性伤害(特大)/<span class=text-blue>◆对处于中毒状态的敌人进行暗属性技能追击
-skill-1,黑暗,<div class=prt-text-small>对敌方单体造成暗属性伤害/施加减速效果/<span class=text-blue>◆对处于10个或更多弱化状态的敌人该技能发动两次</div>
+special-ボーン・デスワルツ,死亡华尔兹,暗属性伤害(特大)/<span class=text-blue>◆对处于中毒状态的敌人进行暗属性技能追击</span>
+special-Death March,死亡华尔兹,暗属性伤害(特大)/<span class=text-blue>◆对处于中毒状态的敌人进行暗属性技能追击</span>
+skill-1,黑暗,<div class=prt-text-small>对敌方单体造成暗属性伤害/施加减速效果/<span class=text-blue>◆对处于10个或更多弱化状态的敌人该技能发动两次</span></div>
 skill-2,深渊,敌方防御DOWN(25%)/暗属性防御DOWN(15%)
 skill-2++,深渊,<div class=prt-text-small>驱散一个敌方的强化状态/敌方防御DOWN(25%)/暗属性防御DOWN(15%)</div>
 skill-3,祸源,对敌方单体造成暗属性伤害/中毒效果
