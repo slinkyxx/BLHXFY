@@ -1,13 +1,13 @@
 ﻿id,name,detail
 npc,英格威,3040088000
 special,赤热守卫,水屬性伤害(特大)/奥义值UP(50%)/切换到硬汉模式
-special++,赤热守卫,水屬性伤害(特大)/奥义值UP(50%)/必定三连击（3回合）/切换到硬汉模式
+special++,赤热守卫,水屬性伤害(特大)/奥义值UP(50%)/必定三连击(3回合)/切换到硬汉模式
 special-フルメタル・キャノン,全金属・加农炮,水屬性伤害(极大)/硬汉模式解除
 special-フルメタル・エイムス,全金属・瞄准,水屬性伤害(特大)/硬汉模式解除
 special-Full Metal Cannon,全金属・加农炮,水屬性伤害(极大)/硬汉模式解除
 special-Full Metal Sights,全金属・瞄准,水屬性伤害(特大)/硬汉模式解除
-skill-1,来者不拒,<div class=prt-text-small>自身获得反击（受伤/5次）/敌对心特殊UP（必定成为目标）持续三回合</div>
-skill-1++,来者不拒,<div class=prt-text-small>自身获得反击（受伤/5次）/敌对心特殊UP（必定成为目标）/受伤时奥义值增加（5%）持续三回合</div>
+skill-1,来者不拒,<div class=prt-text-small>自身获得反击(受伤/5次)/敌对心特殊UP(必定成为目标)持续三回合</div>
+skill-1++,来者不拒,<div class=prt-text-small>自身获得反击(受伤/5次)/敌对心特殊UP(必定成为目标)/受伤时奥义值增加(5%)持续三回合</div>
 skill-2,野性,不经过回合进行一次普通攻击
 skill-3,无慈悲,自身暴击概率UP/水属性追击效果
 skill-3+,无慈悲,<div class=prt-text-small>自身暴击概率UP/水属性追击效果/获得全金属激光效果（自身处于硬汉状态对敌方单体技能追击）</div>
