@@ -1,7 +1,7 @@
 id,name,detail
 npc,玛裘拉·玛利乌斯,3040213000
-special,巨人之地,<div class=prt-text-small>水属性伤害(特大)/银华效果/我方全体HP回复</div>
-skill-1,冰煌一挥,<div class=prt-text-small>对敌方全体造成水属性伤害/付与自身1层玉水的刻印/奥义值UP(20%)<br><span class=text-blue>◆根据玉水的刻印层数强化性能</span></div>
+special,巨人之地,水属性伤害(特大)/银华效果/我方全体HP回复
+skill-1,冰煌一挥,<div class=prt-text-small>对敌方全体造成水属性伤害/付与自身1层玉水的刻印/奥义值UP(20%)<span class=text-blue>◆根据玉水的刻印层数强化性能</span></div>
 skill-2,冰雹风暴,<div class=prt-text-small>对敌方单体造成水属性伤害/减速效果<br><span class=text-blue>◆玉水的刻印5层时发动2次</span></div>
 skill-3,冻封大地,<div class=prt-text-small>敌方全体攻击力DOWN/重力效果/冰结效果</div>
 support-1,白银的冰华,回合结束时若敌人处于银华效果，则发动1次冰煌一挥
