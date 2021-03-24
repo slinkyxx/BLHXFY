@@ -6,7 +6,7 @@ skill-1,雾冰之地,对敌人造成水属性伤害/获得1层冰剑效果/攻�
 skill-2,离别,我方全体暴击率UP<span class=text-blue>◆消耗20%奥义值</span>
 skill-2++,离别,我方全体暴击率UP/会心效果/活性效果
 skill-3,矢志,奥义值上升速度UP/敌对心DOWN
-skill-3+,矢志,<div class=prt-text-small>展开魔冰结界，能力大幅提升/自己获得屏障效果<span class=text-blue>◆屏障解除时解除魔冰结界</span>
+skill-3+,矢志,<div class=prt-text-small>展开魔冰结界，能力大幅提升/自己获得屏障效果<br><span class=text-blue>◆屏障解除时解除魔冰结界</span></div>
 support-1,纯白剑锋,每2回合追加1层冰剑效果(最大5层)/根据冰剑效果的数量奥义性能UP
 support-2,冷若冰霜,我方水属性角色对火属性目标的伤害UP/暴击时伤害上限UP
 skill-lb,LB技能,使用技能「离别」时有几率获得1层冰剑效果
