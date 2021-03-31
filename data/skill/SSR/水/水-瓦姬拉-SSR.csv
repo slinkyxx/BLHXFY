@@ -8,7 +8,7 @@ skill-1++,大口真神,对敌方全体造成水属性伤害/弱化抗性DOWN(累
 skill-2,犬牙相制,敌方单体恐怖效果/减速效果
 skill-3,飞鹰走狗,<div class=prt-text-small>自身获得再攻击效果/「召唤卡鲁加纳」<span class=text-blue>◆消耗30％奥义值</span></div>
 skill-3+,飞鹰走狗,<div class=prt-text-small>自身获得再攻击效果/「召唤卡鲁加纳」/必定三连击<span class=text-blue>◆消耗100%奥义值「飞鹰走狗」持续时间延长至4回合</span></div>
-skill-4,狛戌犬虑,<div class=prt-text-small>自身获得「狛戌犬虑」<span class=text-blue>◆奥义连击时发动技能追击，对敌方单体造成水属性伤害/自身获得随机强化效果
+skill-4,狛戌犬虑,<div class=prt-text-small>自身获得「狛戌犬虑」<span class=text-blue>◆奥义连击时发动技能追击，对敌方单体造成水属性伤害/自身获得随机强化效果</span></div>
 support-1,犬神宮之主,奥义值最大值变为200%
 support-1+,犬神宮之主,奥义值最大值变为200%/自身发动奥义时，「召唤卡鲁加纳」与「狛戌犬虑」的持续时间延长2回合
 support-2,仁义八行,奥义连击时，根据连击数增加自身的奥义值
