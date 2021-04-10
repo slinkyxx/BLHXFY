@@ -1,6 +1,6 @@
 ﻿id,name,detail
 npc,库库鲁,3040159000
-special,必胜突袭,<div class=prt-text-small>水属性伤害(特大)/「抑止」<br><span class=text-blue>◆处于「抑止」的目标无法普通攻击，使用特殊技，积攒CT</span></div>
+special,必胜突袭,<div class=prt-text-small>水属性伤害(特大)/「抑止」<br><span class=text-blue>◆处于「抑止」的目标无法行动</span></div>
 skill-1,大桶爆弹,<div class=prt-text-small>消耗所有「火药桶」，对敌方单体造成水属性伤害<span class=text-blue>◆消耗火药桶越多，性能越强</span></div>
 skill-2,赶尽杀绝,<div class=prt-text-small>对敌方全体造成4倍水属性伤害/攻防DOWN(累积)<span class=text-blue>◆每回合结束时进行1次「压制射击」持续4回合</span></div>
 skill-3,武器鉴定,<div class=prt-text-small>我方指定角色获得攻击力UP/连击率UP/三连击率UP/回避率UP</div>
