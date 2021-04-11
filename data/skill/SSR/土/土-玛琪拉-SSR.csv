@@ -5,7 +5,7 @@ special-鳥明叡知,鸟明睿智,土属性伤害(特大)/我方全体获得5层
 skill-1,鼓舞激励,我方全体根据消耗「鼓音」的总层数获得攻防UP/连续攻击率UP/奥义伤害上限UP
 skill-1++,鼓舞激励,我方全体获得攻防UP/连续攻击率UP/奥义伤害上限UP
 skill-2,云散鸟没,对敌方单体造成土属性伤害/防御力DOWN(15%)/土属性防御力DOWN
-skill-2++,云散鸟没,对敌方单体造成土属性伤害/防御力DOWN(15%)/土属性防御力DOWN/连续攻击率DOWN
+skill-2++,云散鸟没,<div class=prt-text-small>对敌方单体造成土属性伤害/防御力DOWN(15%)/土属性防御力DOWN/连续攻击率DOWN</div>
 skill-3,花鸟风月,我方全体获得攻击力UP/土属性追击効果
 skill-4,鸡往开来,<div class=prt-text-small>自身获得「鸡往开来」/回避率UP/回合结束时对敌方全体造成土属性伤害<br><span class=text-blue>◆前排角色的「鼓音」层数均为最大时，消耗全部「鼓音」获得1个「全体治疗药水」</span></div>
 support-1,鸟神宫之主,<div class=prt-text-small>我方全体根据攻击敌方的次数获得「鼓音」(最大10层)/<br><span class=text-blue>◆仅前排有效</span></div>
