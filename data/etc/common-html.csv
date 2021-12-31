@@ -424,7 +424,8 @@ path,text,trans,count
 /detail/content/detail,おまかせ編成の対象から除外,从自动编成的对象里排除,
 /detail/content/detail,おまかせ編成の対象に含める,包含到自动编成的对象里,
 /detail/content/detail,効果時間,持续时间,
-/detail/content/detail,使用間隔,使用间隔,33
+/detail/content/detail,使用間隔,冷却时间,33
+/detail/content/detail,使用可能,使用限制,33
 /detail/content/detail,初回召喚,首次召唤,33
 /detail/content/detail,習得条件,解锁条件,33
 /detail/content/detail,ターン,回合,66
@@ -946,7 +947,7 @@ raid/,召喚石情報,召唤石信息,
 /enhancement_weapon/content,ベース武器を選択してください,请选择基础武器,
 /enhancement_weapon/content,ベースにできる武器がありません,没有可作为基础的武器,
 /enhancement_weapon/content/material,素材武器を選択してください,请选择素材武器,5
-/enhancement_weapon/content,育成アイテムを使用できます,可使用育成道具
+/enhancement_weapon/content,育成アイテムを使用できます,可使用育成道具,
 /party/content/set_poses,スキン・POSE切り替え,皮肤·POSE切换,
 /party/content/set_poses,スキンを選択してください,请选择皮肤,
 /party/content/set_poses,推しキャラTwitter投稿画像,喜爱角色Twitter投稿画像,
