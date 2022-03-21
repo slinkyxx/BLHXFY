@@ -2,7 +2,7 @@
 npc,萝赛塔,3040068000
 special,无尽玫瑰,<div class=prt-text-small>风属性伤害(特大)/我方全体弱化效果成功率UP<span class=text-blue>◆「蔷薇结界」时改为自身防御力UP</span></div>
 special-エターニティ・ローズ,永恒玫瑰,<div class=prt-text-small>风属性伤害(特大)/我方全体弱化效果成功率UP/连续攻击率UP<span class=text-blue>◆「蔷薇结界」时改为自身防御力UP/奥义值UP(30%)</span></div>
-skill-1,蔷薇结界,<div class=prt-text-small>自身获得1层「蔷薇结界」<span class=text-blue>◆每回合消耗30%奥义值/奥义值不足/「蔷薇结界」5层/再次使用时解除结界/我方全体根据「蔷薇结界」层数获得强化效果</span></div>
+skill-1,蔷薇结界,<div class=prt-text-small>自身获得1层「蔷薇结界」<span class=text-blue>◆每回合消耗30%奥义值/奥义值不足/「蔷薇结界」5层/再次使用时解除/我方全体根据「蔷薇结界」层数获得强化效果</span></div>
 skill-2,铁处女,对敌方全体造成风属性伤害/我方全体获得伤害UP
 skill-2++,铁处女,<div class=prt-text-small>对敌方全体造成风属性伤害/我方全体获得「蔷薇慈爱」/伤害UP/攻击力UP</div>
 skill-3,梦之城,自身获得全体援护效果/格挡效果
