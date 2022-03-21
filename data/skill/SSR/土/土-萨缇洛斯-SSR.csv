@@ -1,7 +1,7 @@
 id,name,detail
 npc,萨缇洛斯,3040375000
 special,魅爱之咒,土属性伤害(特大)/自身获得1层「闪耀」/奥义值UP(15%)
-skill-1,激情演出,<div class=prt-text-small>自身获得格挡效果/敌对心UP/奥义值UP(15%)/奥义性能UP(累积)<span class=text-blue>◆无法普通攻击</span></div>
+skill-1,激情演出,<div class=prt-text-small>自身获得格挡效果/敌对心UP/奥义值UP(15%)/奥义性能UP(累积)/无法普通攻击</div>
 skill-2,无邪之心,<div class=prt-text-small>自身HP回复(上限2000)/弱化效果缩短2回合<br><span class=text-blue>◆消耗1层「闪耀」效果全体化</span></div>
 skill-3,迹指天空,对敌方全体造成土属性伤害/攻防DOWN(累积)/驱散一个强化效果
 support-1,星之歌手,敌方使用特殊技的回合自动发动一次「无邪之心」/自身技能使用间隔缩短1回合
