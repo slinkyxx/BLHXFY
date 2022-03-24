@@ -1,7 +1,7 @@
 id,name,detail
 npc,巫妖,3040357000
 special,死亡终局,暗属性伤害(特大)/减速效果/自身技能使用间隔缩短1回合
-skill-1,幻痛,对敌方随机造成6次暗属性伤害/我方全体获得死之祝福效果/受到的伤害转为光属性
+skill-1,幻痛,<div class=prt-text-small>对敌方随机造成6次暗属性伤害/我方全体获得死之祝福效果/受到的伤害转为光属性</div>
 skill-2,腐化,全体光属性攻击力DOWN/暗属性防御力DOWN/中毒效果/腐败效果
 skill-3,受诅咒的魂灵,<div class=prt-text-small>自身获得「不死王再临」/自动复活效果<span class=text-blue>◆复活时获得「不净」每回合损失HP(上限3000)/回合结束时奥义值DOWN(10%)</span></div>
 support-1,不死的召唤声,<div class=prt-text-small>自身常驻诅咒效果/死之祝福效果/每回合损失HP(上限1000)/攻防UP/必定连击/奥义性能UP</div>
