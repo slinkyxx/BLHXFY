@@ -222,7 +222,7 @@ id,ja,en,name,detail
 200211,無明斬,No More Doubt,无明斩,自身获得三回攻击效果<br><span class=text-blue>◆消耗40%奥义值</span>
 200221,烈刀一閃,Rending Flash,烈刀一闪,<div class=prt-text-small>对敌方单体造成自属性伤害/自身奥义性能UP<br><span class=text-blue>◆消耗60%奥义值</span></div>
 30186,心空,Shinku,心空,奥义值上限变为200%
-30187,雲耀,Unyou,云耀,<div class=prt-text-small>自身发动奥义后获得1层「云耀」(最大5层)<span class=text-blue>◆自身根据「云耀」层数获得攻击力UP/奥义伤害UP/连续攻击率UP</span></div>
+30187,雲耀,Unyou,云耀,<div class=prt-text-small>自身发动奥义后获得1层「云耀」(最大5层)<br><span class=text-blue>◆自身根据「云耀」层数获得攻击力UP/奥义伤害UP/连续攻击率UP</span></div>
 7210,剣神解放,,剑神解放,将主手武器中隐藏的力量唤醒
 7211,剣神共鳴,,剑神共鸣,根据主手武器变化为不同的技能
 7216,集気,Energize,集气,恢复剑气<br><span class=text-blue>◆消费30%奥义槽</span>
