@@ -84,6 +84,7 @@ path,text,trans,count
 /content,MAXのみ,仅MAX,10
 /content,ONのみ,仅ON,10
 /content,OFFのみ,仅OFF,10
+/content,自動リサイクル,自动回收,10
 /content,発動,发动,10
 /content,習得,习得,21
 /content,変更,变更,9
