@@ -81,10 +81,10 @@ id,name,text,trans
 125,ルリア/露莉亚,あの時……姬塔は、\n『涯て』から力を引き出してた……\nってことなんですね……？,也就是说，那个时候……\n姬塔从『涯』引出了力量……\n是这样没错吧……？
 126,ビィ/碧,でもよぅ……今は髪が蒼くなってたりも\nしてねぇし、そもそも『涯て』から\n力を引き出す必要もねぇだろ……？,但是啊……现在又没有头发变蓝，\n而且没必要从『涯』引出力量吧？
 127,ガレヲン,無為。\n<span class='scene-font-kokoro'>（今、この事象に対して</span>\n<span class='scene-font-kokoro'>原因を求める意味はありません）</span>,无为。\n<span class='scene-font-kokoro'>（现在针对这个现象</span>\n<span class='scene-font-kokoro'>寻求原因也没有意义）</span>
-128,ガレヲン,不測。\n<span class='scene-font-kokoro'>（その『因果』を規定する楔が</span>\n<span class='scene-font-kokoro'>機能しなくなりかけているのですから）</span>,不測。\n<span class='scene-font-kokoro'>（因为规定『因果』的楔</span>\n<span class='scene-font-kokoro'>已经快要失效了）</span>
+128,ガレヲン,不測。\n<span class='scene-font-kokoro'>（その『因果』を規定する楔が</span>\n<span class='scene-font-kokoro'>機能しなくなりかけているのですから）</span>,不测。\n<span class='scene-font-kokoro'>（因为规定『因果』的楔</span>\n<span class='scene-font-kokoro'>已经快要失效了）</span>
 129,ルリア/露莉亚,<span class='scene-font-spword'>因果を規定する楔</span>……,<span class='scene-font-spword'>规定因果的楔</span>……
-131,ワムデュス,ん。\n<span class='scene-font-spword'>オロロジャイア</span>……ワムは\n<span class='scene-font-spword'>ロジャー</span>って呼んでる。,嗯。\n<span class='scene-font-spword'>欧罗罗伽亚</span>……瓦姆都叫祂\n<span class='scene-font-spword'>罗伽</span>。
-132,ワムデュス,ともかく、今ヤバなのは\nロジャーと特異点と空の世界。,总而言之，现在有危险的是\n罗伽、特异点和空之世界。
+131,ワムデュス,ん。\n<span class='scene-font-spword'>オロロジャイア</span>……ワムは\n<span class='scene-font-spword'>ロジャー</span>って呼んでる。,嗯。\n<span class='scene-font-spword'>欧罗罗伽亚</span>……瓦姆都叫祂<span class='scene-font-spword'>罗伽</span>。
+132,ワムデュス,ともかく、今ヤバなのは\nロジャーと特異点と空の世界。,总而言之，现在有危险的是\n罗伽和特异点和空之世界。
 133,ワムデュス,つまり、おおむね全部ヤバ。,也就是，基本全都要完了。
 134,シス/希斯,お、概ね……全部……！？,基本……全部……
 135,猫,にゃぁふー……,喵呼——
