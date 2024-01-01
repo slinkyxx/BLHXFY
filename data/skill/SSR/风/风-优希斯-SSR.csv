@@ -1,6 +1,7 @@
 ﻿id,name,detail
 npc,优希斯,3040105000
-special,破煌刃・星薙,<div class=prt-text-small>星薙形态：风属性伤害(特大)侠气Lv上升/获得吸血效果<br>天终形态：风属性伤害(特大)侠气Lv上升/获得20%风属性追击效果</div>
+special,破煌刃・星薙,<div class=prt-text-small>星薙形态：风属性伤害(特大)/侠气Lv上升/获得吸血效果<br>天终形态：风属性伤害(特大)/侠气Lv上升/获得20%风属性追击效果</div>
+special-破煌刃・暁天,破煌刃・晓天,<div class=prt-text-small>星薙形态：风属性伤害(特大)/侠气Lv上升/获得吸血效果/承伤吸血效果<br>天终形态：风属性伤害(特大)侠气Lv上升/获得20%风属性追击效果</div>
 special-破煌刃・天終,破煌刃・天终,<div class=prt-text-small>风属性伤害(特大)侠气Lv上升/获得20%风属性追击效果</div>
 special-Skyblade Heavensbane,破煌刃・天终,<div class=prt-text-small>风属性伤害(特大)侠气Lv上升/获得20%风属性追击效果</div>
 skill-1,坚定信念,切换为天终之型<br>再使用切换回星薙之型
