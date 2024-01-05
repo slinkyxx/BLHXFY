@@ -99,4 +99,4 @@ id,name,text,trans
 126,,３つのポイントのうち、\n好きなポイントから\n調査を開始できます。,<span class='scene-font-spword'>可以从三个地方中，</span>\n<span class='scene-font-spword'>喜欢的地方开始调查。</span>
 127,,調査には、\n『アーカルムパスポート』\nを消費します。,调查需要使用\n『阿卡姆通行证』。
 info,,,scene_arcarum_op2_s10
-译者,,,
+译者,,,-Roya
