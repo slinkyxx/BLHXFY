@@ -4,7 +4,7 @@ special,震慑之枪,水属性伤害（极大）/发动技能1/我方全体获�
 special-ディターレントイクシード,震慑之界,水属性伤害（极大）/驱散1种强化效果/发动技能1/我方全体获得免疫驱散效果（1次）
 special-Overwhelming Deterrent,震慑之界,水属性伤害（极大）/驱散1种强化效果/发动技能1/我方全体获得免疫驱散效果（1次）
 skill-1,阻碍术,我方全体防御力100%UP/格挡效果 <span class=text-blue>◆根据英灵LV防御UP（累积）</span>
-skill-1,阻碍术++,我方全体防御力100%UP/格挡效果/火属性伤害40%减免<span class=text-blue>◆根据英灵LV防御UP（累积）</span>
+skill-1++,阻碍术,我方全体防御力100%UP/格挡效果/火属性伤害40%减免<span class=text-blue>◆根据英灵LV防御UP（累积）</span>
 skill-2,公主的引领,<div class=prt-text-small>反击效果（承伤/2次）/敌对心UP/不计入回合发动普攻</div>
 skill-3,光之召唤,<div class=prt-text-small>自己的奥义值25%UP/HP回复(上限1500)/净化1个弱体效果 <span class=text-blue>◆英灵LV3及5以上时性能强化</span> </div>
 skill-4,英灵召回,自身获得「英灵召回」效果/<span class=text-blue>◆仅英灵Lv5时可使用/全技能可即刻使用</span>
